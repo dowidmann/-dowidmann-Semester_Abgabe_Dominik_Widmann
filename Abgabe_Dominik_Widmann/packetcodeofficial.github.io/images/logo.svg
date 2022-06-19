@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381" height="63" viewBox="0 0 381 63">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 66.667px;
+        fill: #4285f4;
+        font-family: "Product Sans";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #0e9d58;
+      }
+
+      .cls-3 {
+        fill: #f3b400;
+      }
+
+      .cls-4 {
+        fill: #db4437;
+      }
+    </style>
+  </defs>
+  <text id="Opportunity" class="cls-1" x="-2" y="49">O<tspan class="cls-2">p<tspan class="cls-3">p<tspan class="cls-4">o</tspan></tspan></tspan>rt<tspan>u<tspan class="cls-3">ni<tspan class="cls-4">t</tspan></tspan></tspan>y</text>
+</svg>
